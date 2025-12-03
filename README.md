@@ -169,15 +169,7 @@ The Streamlit application provides:
 - Scikit-learn for preprocessing
 - Matplotlib/Plotly for visualization
 
-## Author
-
-**Developer**: Debanjan Shil  
-**Email**: [debanjanshil66@gmail.com](mailto:debanjanshil66@gmail.com)  
-**GitHub**: [@debanjan06](https://github.com/debanjan06)  
-**LinkedIn**: [Connect with me](https://www.linkedin.com/in/debanjan06/)
-
 ---
 
 **Built for precision agriculture and agricultural AI research. Designed to scale from individual farms to national agricultural monitoring systems.**
 
-⭐ **Star this repository if you find it useful for agricultural AI research!**
